@@ -10,4 +10,4 @@ def enroll(name, gender, age = 6, city = 'Beijing'):
 enroll('Sarah', 'F')
 enroll('Sarah', 'F', age = 7)
 enroll('bob','M', city = 'Shanghai')
-enroll('Hi,','M')
+enroll('Hi','M')
